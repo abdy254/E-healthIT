@@ -1,0 +1,1 @@
+&COPY;[2019-2030] Copyrights by <a target="_blank" href="!#">PatientRegistry</a>"
